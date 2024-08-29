@@ -86,3 +86,5 @@ You can adjust the following settings in the Prometheus class:
     -binned_plots_choice: Set to 'y' to generate plots for binned data, 'n' to skip plotting.
 
 
+This manual provides a comprehensive overview of the software's capabilities and usage. For further assistance, refer to the source code comments or contact the author.
+Feel free to adjust any section based on your specific needs or use cases!
