@@ -1,6 +1,7 @@
 # PyPrometheus
 ## Overview ##
 Prometheus is a Python tool designed for analyzing and processing experimental data related to radiance, temperature, and emissivity. This tool provides functionalities for reading, smoothing, interpolating, and binning data, as well as generating plots and exporting results to CSV files.
+![image](https://github.com/user-attachments/assets/55d0601e-e32b-4768-8c9f-673f5c1233bc)
 
 ## Features ##
 
